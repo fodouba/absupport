@@ -1,0 +1,22 @@
+form{
+    width: 500px;
+    margin: auto;
+    text-align: left;
+    padding: 15px;
+    margin-top: 20px;
+}
+h3{
+    margin-top: 30px;
+}
+Button{
+    margin-top: 15px;
+}
+#texContainer{
+    width: 75%;
+    margin-top: 20px;
+    color: seagreen;
+}
+h4{
+    margin-top: 2rem;
+    color: seagreen;
+}

@@ -1,0 +1,20 @@
+.Link{
+    text-decoration: none !important;
+    color: whitesmoke !important;
+    margin-right: 5px !important;
+}
+.nav-link{
+    color: whitesmoke !important;
+}
+h6{
+    color: mediumseagreen;
+}
+#b{
+    color: yellowgreen;
+}
+#sup{
+    color: mediumseagreen;
+}
+.Navbar.Brand{
+    border: 2px solid bisque;
+}

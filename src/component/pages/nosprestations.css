@@ -1,0 +1,12 @@
+#prestations{
+    /* display: flex; */
+    background-image: url("./../../casques.jpg") !important;
+    background-repeat: no-repeat !important; 
+}
+
+#energies{
+    color: seagreen;
+}
+#directes{
+    color: seagreen;
+}
